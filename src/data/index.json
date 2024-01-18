@@ -1,0 +1,78 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./img/product-chain-1.png",
+        "title": "Front-End",
+        "description": "I specialize in crafting engaging user interfaces using HTML, CSS, and JavaScript. Proficient in React.js, I create responsive and visually appealing web applications. With a keen eye for design and a focus on user experience, I bring simplicity and elegance to front-end development. Let's build user-friendly and visually striking websites together!"
+      },
+      {
+        "id": "2",
+        "src": "./img/tag-1.png",
+        "title": "Back-End",
+        "description": "I'm a back-end developer skilled in building robust server-side applications. Proficient in Node.js and Express.js, I bring data to life and ensure smooth functionality behind the scenes. My expertise includes working with databases like MongoDB, creating RESTful APIs, and optimizing server performance."
+      },
+      {
+        "id": "3",
+        "src": "./img/feather-pen-2.png",
+        "title": "UI & UX Design",
+        "description": "I'm passionate about creating seamless and delightful user experiences. Proficient in UI/UX design principles, I specialize in turning concepts into visually appealing and intuitive interfaces. From wireframes to polished designs, I bring a user-centric approach to every project. "
+      },
+      {
+        "id": "4",
+        "src": "./img/feather-pen-1.png",
+        "title": "Webflow Development",
+        "description": "I'm adept at harnessing the power of Webflow to bring web designs to life with speed and precision. From concept to deployment, I create visually stunning and responsive websites that seamlessly adapt to various devices. Let's elevate your online presence with the magic of Webflow!"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/placeholder-image.png",
+        "title": "Lorem ipsum",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "./img/placeholder-image-1.png",
+        "title": "lorem ipsum",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      },
+      {
+        "id": "3",
+        "src": "./img/placeholder-image-2.png",
+        "title": "lorem ipsum",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "link": "View In Github"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/avatar-image.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Jane Doe",
+        "author_designation": "Starbucks"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/avatar-image-1.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "John Doe",
+        "author_designation": "Louis Vuitton"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/avatar-image-2.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "author_name": "Chatty Cathy",
+        "author_designation": "McDonald's"
+      }
+    ]
+  }
+  
