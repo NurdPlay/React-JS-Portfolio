@@ -17,27 +17,21 @@
         "src": "./img/feather-pen-2.png",
         "title": "UI & UX Design",
         "description": "I'm passionate about creating seamless and delightful user experiences. Proficient in UI/UX design principles, I specialize in turning concepts into visually appealing and intuitive interfaces. From wireframes to polished designs, I bring a user-centric approach to every project. "
-      },
-      {
-        "id": "4",
-        "src": "./img/feather-pen-1.png",
-        "title": "Webflow Development",
-        "description": "I'm adept at harnessing the power of Webflow to bring web designs to life with speed and precision. From concept to deployment, I create visually stunning and responsive websites that seamlessly adapt to various devices. Let's elevate your online presence with the magic of Webflow!"
       }
     ],
     "portfolio": [
       {
         "id": "1",
-        "src": "./img/placeholder-image.png",
-        "title": "Lorem ipsum",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "src": "./img/placeholder-image-3.png",
+        "title": "Car Mart Mock Used Car Database",
+        "description": "Built with Express, Node.js, and MongoDB using Mongoose, this app showcases a powerful backend for a seamless Mock Used Car Database experience.",
         "link": "View In Github"
       },
       {
         "id": "2",
         "src": "./img/placeholder-image-1.png",
-        "title": "lorem ipsum",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+        "title": "News Hub",
+        "description": "Discover the latest top stories effortlessly or tailor your news experience with a custom search on News Hub. This React-powered app brings the world's news to your fingertips, offering a seamless and personalized way to stay informed.",
         "link": "View In Github"
       },
       {
@@ -55,7 +49,7 @@
         "src": "./img/avatar-image.png",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
         "author_name": "Jane Doe",
-        "author_designation": "Starbucks"
+        "author_designation": "Lurem Ipsum"
       },
       {
         "id": "2",
@@ -63,7 +57,7 @@
         "src": "./img/avatar-image-1.png",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
         "author_name": "John Doe",
-        "author_designation": "Louis Vuitton"
+        "author_designation": "Lurem Ipsum"
       },
       {
         "id": "3",
@@ -71,7 +65,7 @@
         "src": "./img/avatar-image-2.png",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
         "author_name": "Chatty Cathy",
-        "author_designation": "McDonald's"
+        "author_designation": "Lurem Ipsum"
       }
     ]
   }
