@@ -25,7 +25,7 @@
         "src": "./img/placeholder-image-3.png",
         "title": "Car Mart Mock Used Car Database",
         "description": "Built with Express, Node.js, and MongoDB using Mongoose, this app showcases a powerful backend for a seamless Mock Used Car Database experience.",
-        "link": "View In Github"
+        "link": "href=https://github.com/NurdPlay/car-sells-app"
       },
       {
         "id": "2",
