@@ -1,4 +1,10 @@
+import ContactMe from "./ContactMe"; // Import the ContactMe component
+ 
 export default function HeroSection() {
+    const scrollToContact = () => {
+        const contactSection = document.getElementById("Contact"); // Get the Contact section by its id
+        contactSection.scrollIntoView({ behavior: "smooth" }); // Scroll to the Contact section smoothly
+      };
     return(
         <section id="heroSection" className="hero--section">
             <div className="hero--section--content--box">
@@ -14,7 +20,7 @@ export default function HeroSection() {
                         <br/>
                     </p>
                 </div>
-                <button className="btn btn-primary">Get In Touch</button>
+                <button className="btn btn-primary" onClick={scrollToContact}>Get In Touch</button>
             </div>
             <div className="hero--section--image">
                 <img className="heroImage" src="./img/IMG_8340.png" alt="Hero Image" />
