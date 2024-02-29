@@ -25,14 +25,14 @@
         "src": "./img/placeholder-image-3.png",
         "title": "Car Mart Mock Used Car Database",
         "description": "Built with Express, Node.js, and MongoDB using Mongoose, this app showcases a powerful backend for a seamless Mock Used Car Database experience.",
-        "link": "href=https://github.com/NurdPlay/car-sells-app"
+        "link": "https://github.com/NurdPlay/car-sells-app"
       },
       {
         "id": "2",
         "src": "./img/placeholder-image-1.png",
         "title": "News Hub",
         "description": "Discover the latest top stories effortlessly or tailor your news experience with a custom search on News Hub. This React-powered app brings the world's news to your fingertips, offering a seamless and personalized way to stay informed.",
-        "link": "View In Github"
+        "link": "https://main--headlinehubnews.netlify.app/"
       },
       {
         "id": "3",
